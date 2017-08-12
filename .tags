@@ -21,18 +21,18 @@ li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^  
 li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^        <li><a href="#">Contact<\/a><\/li>$/;"	function	line:18
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^  <div class="">$/;"	function	line:23
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h2>Our Process<\/h2>$/;"	function	line:24
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="#" alt="identitiy image"><\/p>$/;"	function	line:25
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="resources\/icons\/icon_identify.svg" alt="identitiy image"><\/p>$/;"	function	line:25
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h3>Identity<\/h3>$/;"	function	line:26
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p>We focus on the most important details.<\/p>$/;"	function	line:27
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="#" alt="understand image"><\/p>$/;"	function	line:28
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="resources\/icons\/icon_understand.svg" alt="understand image"><\/p>$/;"	function	line:28
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h3>Understand<\/h3>$/;"	function	line:29
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p>We study our projects inside and out.<\/p>$/;"	function	line:30
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="#" alt="execute image"><\/p>$/;"	function	line:31
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p><img src="resources\/icons\/icon_execute.svg" alt="execute image"><\/p>$/;"	function	line:31
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p>We put everything we have into our work.<\/p>$/;"	function	line:32
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^  <div class="white_text">$/;"	function	line:35
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h2 id="divider">Designed in New York<\/h2>$/;"	function	line:36
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^  <div class="">$/;"	function	line:39
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h3>Protfolio<\/h3>$/;"	function	line:40
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h3>Portfolio<\/h3>$/;"	function	line:40
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p>Coming soon<\/p>$/;"	function	line:41
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <h3>Team<\/h3>$/;"	function	line:42
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/broadway/index.html	/^    <p>We're Hiring!<\/p>$/;"	function	line:43
